@@ -12,4 +12,4 @@ This Python script compresses an image to a target size of approximately 1MB. It
 3. **Run the script**
    python compress_image.py input_image.jpg
    *replace 'input_image.jpg' with the image*
-# This README.md file provides a structured overview of your image compression script, including installation instructions, usage guidelines, parameter descriptions, example usage, output details, and licensing information. Feel free to customize it further to suit your specific needs!
+### This README.md file provides a structured overview of your image compression script, including installation instructions, usage guidelines, parameter descriptions, example usage, output details, and licensing information. Feel free to customize it further to suit your specific needs!
